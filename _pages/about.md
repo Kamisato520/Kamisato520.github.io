@@ -122,7 +122,7 @@ redirect_from:
 <button class="pub-button active" onclick="filterPublications(event, 'all')" data-i18n-en="Core Publications" data-i18n-zh="精选论文">Core Publications</button>
 <button class="pub-button" onclick="filterPublications(event, 'list')" data-i18n-en="Full Publications List" data-i18n-zh="完整论文列表">Full Publications List</button>
 
-<p style="font-size: 13px; color: #6b7280;" data-i18n-en="(* equal contribution · † corresponding author · ‡ project leader)" data-i18n-zh="（* 共同一作 · † 通讯作者 · ‡ 项目负责人）">(* equal contribution · † corresponding author · ‡ project leader)</p>
+<p style="font-size: 14px; color: #6b7280;" data-i18n-en="(* equal contribution · † corresponding author · ‡ project leader)" data-i18n-zh="（* 共同一作 · † 通讯作者 · ‡ 项目负责人）">(* equal contribution · † corresponding author · ‡ project leader)</p>
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
 
@@ -133,7 +133,7 @@ redirect_from:
     </div> 
     <div class="lang-en">
       <strong>DataEvolver: Let Your Data Build and Improve Itself via Goal-Driven Loop Agents</strong><br>
-      <i style="font-size: 13px;"><strong>Qisong Zhang*</strong>, Wenzhuo Wu*, Zhuangzhuang Jia, Yunhao Yang, Shuo Zhang, Huayu Zhang, Xianghao Zang, Zhixiang He, Zhongjiang He, Kongming Liang, Zhanyu Ma.</i><br>
+      <i style="font-size: 14px;"><strong>Qisong Zhang*</strong>, Wenzhuo Wu*, Zhuangzhuang Jia, Yunhao Yang, Shuo Zhang, Huayu Zhang, Xianghao Zang, Zhixiang He, Zhongjiang He, Kongming Liang, Zhanyu Ma.</i><br>
       <span style="color:#888;">First author (equal contribution) · Core R&amp;D</span><br>
       Designed a closed-loop visual data engine with VLM/CV review, 24 bounded actions, and inner/outer feedback loops. Ours+DualGate improved SpatialEdit PSNR by +1.03 dB over Public LoRA.
       <br> 
@@ -146,7 +146,7 @@ redirect_from:
     </div>
     <div class="lang-zh">
       <strong>DataEvolver: Let Your Data Build and Improve Itself via Goal-Driven Loop Agents</strong><br>
-      <i style="font-size: 13px;"><strong>张启淞*</strong>, Wenzhuo Wu*, Zhuangzhuang Jia, Yunhao Yang, Shuo Zhang, Huayu Zhang, Xianghao Zang, Zhixiang He, Zhongjiang He, Kongming Liang, Zhanyu Ma.</i><br>
+      <i style="font-size: 14px;"><strong>张启淞*</strong>, Wenzhuo Wu*, Zhuangzhuang Jia, Yunhao Yang, Shuo Zhang, Huayu Zhang, Xianghao Zang, Zhixiang He, Zhongjiang He, Kongming Liang, Zhanyu Ma.</i><br>
       <span style="color:#888;">第一作者（共同一作）· 核心研发</span><br>
       设计包含 VLM/CV 评审门控与 24 有界动作空间的闭环数据演化引擎，通过内外双循环将下游客观指标 PSNR 相比 Public LoRA 提升 1.03 dB。
       <br> 
@@ -167,7 +167,7 @@ redirect_from:
     </div> 
     <div class="lang-en">
       <strong>Panel2Page: Structured Visual Narrative Generation with Omni-Panel Alignment</strong><br>
-      <i style="font-size: 13px;">Shuo Zhang, <strong>Qisong Zhang</strong>, LanXiang Zhou, Huayu Zhang, Xianghao Zang, Zhixiang He, Kongming Liang, Zhanyu Ma.</i><br>
+      <i style="font-size: 14px;">Shuo Zhang, <strong>Qisong Zhang</strong>, LanXiang Zhou, Huayu Zhang, Xianghao Zang, Zhixiang He, Kongming Liang, Zhanyu Ma.</i><br>
       <span style="color:#888;">Second author</span><br>
       Proposes Panel2Page, a two-stage framework for text-to-comic page generation that separates global composition learning (Page-Level SFT) from hierarchical semantic alignment (Omni-Panel Alignment, OPA), trained on ~20,000 verified prompt-page pairs.
       <br> 
@@ -176,7 +176,7 @@ redirect_from:
     </div>
     <div class="lang-zh">
       <strong>Panel2Page: Structured Visual Narrative Generation with Omni-Panel Alignment</strong><br>
-      <i style="font-size: 13px;">Shuo Zhang, <strong>张启淞</strong>, LanXiang Zhou, Huayu Zhang, Xianghao Zang, Zhixiang He, Kongming Liang, Zhanyu Ma.</i><br>
+      <i style="font-size: 14px;">Shuo Zhang, <strong>张启淞</strong>, LanXiang Zhou, Huayu Zhang, Xianghao Zang, Zhixiang He, Kongming Liang, Zhanyu Ma.</i><br>
       <span style="color:#888;">第二作者</span><br>
       提出 Panel2Page 两阶段框架用于结构化视觉叙事（漫画单页）生成，通过页面级 SFT 学习全局布局先验，并引入 Omni-Panel Alignment (OPA) 实现无额外推理开销的多格层次化语义对齐。
       <br> 
@@ -193,7 +193,7 @@ redirect_from:
     </div> 
     <div class="lang-en">
       <strong>GeoEdit++: Learning Residual-Conditioned Rotation References for Geometric Image Editing</strong><br>
-      <i style="font-size: 13px;"><strong>Qisong Zhang</strong> et al.</i><br>
+      <i style="font-size: 14px;"><strong>Qisong Zhang</strong> et al.</i><br>
       <span style="color:#888;">Co-author</span><br>
       Proposes residual-conditioned rotation reference learning for geometric image editing, improving 3D object rotation fidelity and structural alignment across complex backgrounds.
       <br> 
@@ -201,7 +201,7 @@ redirect_from:
     </div>
     <div class="lang-zh">
       <strong>GeoEdit++: Learning Residual-Conditioned Rotation References for Geometric Image Editing</strong><br>
-      <i style="font-size: 13px;"><strong>张启淞</strong> et al.</i><br>
+      <i style="font-size: 14px;"><strong>张启淞</strong> et al.</i><br>
       <span style="color:#888;">共同作者</span><br>
       提出用于几何图像编辑的残差条件旋转参考学习机制，有效提升复杂背景下 3D 物体旋转编辑的真实感与几何对齐精度。
       <br> 
@@ -217,7 +217,7 @@ redirect_from:
     </div> 
     <div class="lang-en">
       <strong>Traj-MCPO: Trajectory-wise Marginal Consistent Policy Optimization</strong><br>
-      <i style="font-size: 13px;">Shuo Zhang, <strong>Qisong Zhang</strong>, Huayu Zhang, LanXiang Zhou, Xianghao Zang, Zhongjiang He, Zhixiang He, Chi Zhang, Tianwei Cao, Kongming Liang, Zhanyu Ma.</i><br>
+      <i style="font-size: 14px;">Shuo Zhang, <strong>Qisong Zhang</strong>, Huayu Zhang, LanXiang Zhou, Xianghao Zang, Zhongjiang He, Zhixiang He, Chi Zhang, Tianwei Cao, Kongming Liang, Zhanyu Ma.</i><br>
       <span style="color:#888;">Second author</span><br>
       Proposes trajectory-wise marginal consistent policy optimization for rectified-flow T2I alignment, using length-normalized trajectory likelihood ratios and clipping to resolve training-inference marginal mismatch.
       <br> 
@@ -225,7 +225,7 @@ redirect_from:
     </div>
     <div class="lang-zh">
       <strong>Traj-MCPO: Trajectory-wise Marginal Consistent Policy Optimization</strong><br>
-      <i style="font-size: 13px;">Shuo Zhang, <strong>张启淞</strong>, Huayu Zhang, LanXiang Zhou, Xianghao Zang, Zhongjiang He, Zhixiang He, Chi Zhang, Tianwei Cao, Kongming Liang, Zhanyu Ma.</i><br>
+      <i style="font-size: 14px;">Shuo Zhang, <strong>张启淞</strong>, Huayu Zhang, LanXiang Zhou, Xianghao Zang, Zhongjiang He, Zhixiang He, Chi Zhang, Tianwei Cao, Kongming Liang, Zhanyu Ma.</i><br>
       <span style="color:#888;">第二作者</span><br>
       针对 Rectified-Flow 文生图模型提出轨迹级边际一致性策略优化方法，利用长度归一化的轨迹似然比与轨迹剪切消除训练与推理之间的边际分布失配。
       <br> 
@@ -313,7 +313,7 @@ redirect_from:
     </div>
     <div class="lang-en"> 
       <strong>DataEvolver: Goal-Driven Synthetic Visual Data Engine</strong><br>
-      <i style="font-size: 13px;">AIDataSci 2026 Oral / BAAI Poster · 2026</i><br>
+      <i style="font-size: 14px;">AIDataSci 2026 Oral / BAAI Poster · 2026</i><br>
       VLM + Agent rendering loop with a 24-action space, inner quality gates, and an outer downstream feedback loop that converts weak angles into targeted data updates. Achieved +1.03 dB PSNR over Public LoRA.
       <br> 
       <b><i style="color:#83a1c7;">Project</i></b> 
@@ -326,7 +326,7 @@ redirect_from:
     </div>
     <div class="lang-zh"> 
       <strong>DataEvolver：目标驱动的闭环视觉数据自演化引擎</strong><br>
-      <i style="font-size: 13px;">AIDataSci 2026 Oral 报告 / BAAI 海报展示 · 2026</i><br>
+      <i style="font-size: 14px;">AIDataSci 2026 Oral 报告 / BAAI 海报展示 · 2026</i><br>
       融合 VLM 与 Agent 闭环渲染，定义 24 有界动作空间与内层质量门控，外层评测将弱视角转化为定向数据扩增。相比 Public LoRA 提升 +1.03 dB PSNR。
       <br> 
       <b><i style="color:#83a1c7;">项目</i></b> 
@@ -347,14 +347,14 @@ redirect_from:
     </div>
     <div class="lang-en"> 
       <strong>Multi-task Image Editing LoRA System</strong><br>
-      <i style="font-size: 13px;">TeleStudio &amp; TeleAI Internship · 2025</i><br>
+      <i style="font-size: 14px;">TeleStudio &amp; TeleAI Internship · 2025</i><br>
       Fine-tuned 30B Qwen-Image-Edit for object rotation, movement, insertion, and removal. Trained 11 angle-specific LoRA models (30°-180°), built a Preset LoRA curriculum, and used Additive Rehearsal to prevent forgetting.
       <br> 
       <b><i style="color:#83a1c7;">Project</i></b> 
     </div>
     <div class="lang-zh"> 
       <strong>多任务图像编辑 LoRA 微调系统</strong><br>
-      <i style="font-size: 13px;">TeleStudio &amp; TeleAI 实习成果 · 2025</i><br>
+      <i style="font-size: 14px;">TeleStudio &amp; TeleAI 实习成果 · 2025</i><br>
       基于 30B Qwen-Image-Edit 微调旋转、移动、插入与消除任务。训练 11 个视角特定 LoRA 模型 (30°-180°)，构建 Preset LoRA 课程学习与 Additive Rehearsal 机制克服灾难性遗忘。
       <br> 
       <b><i style="color:#83a1c7;">项目</i></b> 
@@ -369,14 +369,14 @@ redirect_from:
     </div>
     <div class="lang-en"> 
       <strong>YouAI: Self-Evolving Multimodal UI Agent</strong><br>
-      <i style="font-size: 13px;">Mobile Automation System · 2025</i><br>
+      <i style="font-size: 14px;">Mobile Automation System · 2025</i><br>
       Manager/Operator architecture based on Mobile-Agent-E for long-horizon mobile automation. Added persistent Tips and Shortcuts memory, achieving 86.9% satisfaction and 90.4% action accuracy on Mobile-Eval-E.
       <br> 
       <b><i style="color:#83a1c7;">Project</i></b> 
     </div>
     <div class="lang-zh"> 
       <strong>YouAI：自演化多模态 UI 智能体</strong><br>
-      <i style="font-size: 13px;">移动端自动化智能体系统 · 2025</i><br>
+      <i style="font-size: 14px;">移动端自动化智能体系统 · 2025</i><br>
       基于 Mobile-Agent-E 演进 Manager/Operator 架构，加入 Tips/Shortcuts 长期经验记忆库，在 Mobile-Eval-E 基准上达到 86.9% 满意度与 90.4% 动作准确率。
       <br> 
       <b><i style="color:#83a1c7;">项目</i></b> 
@@ -391,14 +391,14 @@ redirect_from:
     </div>
     <div class="lang-en"> 
       <strong>Graduate Education Assessment Assistant</strong><br>
-      <i style="font-size: 13px;">RAG &amp; PEFT Assisted Scoring · 2024</i><br>
+      <i style="font-size: 14px;">RAG &amp; PEFT Assisted Scoring · 2024</i><br>
       LLM-assisted educational scoring system with weighted subjective evaluation (correctness, logic, expression). Combined automatic objective grading with human-in-the-loop review and ChromaDB RAG.
       <br> 
       <b><i style="color:#83a1c7;">Project</i></b> 
     </div>
     <div class="lang-zh"> 
       <strong>研究生教育质量主客观协同评估助手</strong><br>
-      <i style="font-size: 13px;">RAG 与 PEFT 辅助评分 · 2024</i><br>
+      <i style="font-size: 14px;">RAG 与 PEFT 辅助评分 · 2024</i><br>
       LLM 辅助教育评估系统，包含正确性、逻辑性与表达清晰度的加权主观打分，结合客观题自动批改、人机协同复核与 ChromaDB RAG 检索。
       <br> 
       <b><i style="color:#83a1c7;">项目</i></b> 
