@@ -33,6 +33,11 @@ redirect_from:
   <ul class="news-list">
 
 <li>
+  <span class="lang-en"><span class="news-date"><em>2026.08</em></span> <strong>Traj-MCPO Accepted to ACM MM 2026</strong><br>Traj-MCPO (trajectory-wise marginal consistent policy optimization) was accepted to ACM MM 2026.</span>
+  <span class="lang-zh"><span class="news-date"><em>2026年8月</em></span> <strong>Traj-MCPO 被 ACM MM 2026 录用</strong><br>Traj-MCPO（轨迹级边际一致性策略优化）论文被 ACM MM 2026 正式录用。</span>
+</li>
+
+<li>
   <span class="lang-en"><span class="news-date"><em>2026.08</em></span> <strong>Panel2Page Submitted to AAAI 2027 &amp; GeoEdit++ to IEEE TMM</strong><br>New revision of Panel2Page (visual narrative generation) posted to AAAI 2027; GeoEdit++ (residual rotation references) submitted to IEEE TMM.</span>
   <span class="lang-zh"><span class="news-date"><em>2026年8月</em></span> <strong>Panel2Page 提交 AAAI 2027、GeoEdit++ 提交 IEEE TMM 期刊在审</strong><br>Panel2Page 漫画单页视觉叙事生成论文完成 AAAI 2027 审稿更新，GeoEdit++ 几何图像编辑论文提交 IEEE TMM 期刊在审。</span>
 </li>
@@ -221,7 +226,7 @@ redirect_from:
       <span style="color:#888;">Second author</span><br>
       Proposes trajectory-wise marginal consistent policy optimization for rectified-flow T2I alignment, using length-normalized trajectory likelihood ratios and clipping to resolve training-inference marginal mismatch.
       <br> 
-      <b><i style="color:#83a1c7;">ACM MM 2026 (Under Review)</i></b> <span class="pub-badge">Under Review</span> 
+      <b><i style="color:#83a1c7;">ACM MM 2026 (Accepted)</i></b> <span class="pub-badge">Accepted</span> 
     </div>
     <div class="lang-zh">
       <strong>Traj-MCPO: Trajectory-wise Marginal Consistent Policy Optimization</strong><br>
@@ -229,7 +234,7 @@ redirect_from:
       <span style="color:#888;">第二作者</span><br>
       针对 Rectified-Flow 文生图模型提出轨迹级边际一致性策略优化方法，利用长度归一化的轨迹似然比与轨迹剪切消除训练与推理之间的边际分布失配。
       <br> 
-      <b><i style="color:#83a1c7;">ACM MM 2026 在审</i></b> <span class="pub-badge">在审</span> 
+      <b><i style="color:#83a1c7;">ACM MM 2026（已录用）</i></b> <span class="pub-badge">已录用</span> 
     </div>
   </div> 
 </div>
@@ -289,13 +294,13 @@ redirect_from:
         <span class="pub-list-badge">ACM MM 2026</span>
         <span class="pub-list-title">Traj-MCPO: Trajectory-wise Marginal Consistent Policy Optimization</span><br>
         <span class="pub-list-authors">Shuo Zhang, <strong>Qisong Zhang</strong>, Huayu Zhang, LanXiang Zhou, Xianghao Zang, Zhongjiang He, Zhixiang He, Chi Zhang, Tianwei Cao, Kongming Liang, Zhanyu Ma.</span>
-        <span class="pub-list-note">Under Review.</span>
+        <span class="pub-list-note">Accepted.</span>
       </span>
       <span class="lang-zh">
         <span class="pub-list-badge">ACM MM 2026</span>
         <span class="pub-list-title">Traj-MCPO: Trajectory-wise Marginal Consistent Policy Optimization</span><br>
         <span class="pub-list-authors">Shuo Zhang, <strong>张启淞</strong>, Huayu Zhang, LanXiang Zhou, Xianghao Zang, Zhongjiang He, Zhixiang He, Chi Zhang, Tianwei Cao, Kongming Liang, Zhanyu Ma.</span>
-        <span class="pub-list-note">在审。</span>
+        <span class="pub-list-note">已录用。</span>
       </span>
     </li>
   </ul>
